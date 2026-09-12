@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=s7ri&color=9a7fb8&label=losers" > <br>
+<img src="https://komarev.com/ghpvc/?username=s7ri&color=EDD196&label=losers" > <br>
 </div>  
 
 <div align="center">
-<img src="https://files.catbox.moe/zq29lj.jpg" > <br>
+<img src="https://files.catbox.moe/ev92v7.jpeg" > <br>
 </div>  
 
 
